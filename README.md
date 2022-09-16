@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying at gct, Coimbatore [I was currently ongoing a tech course and carrying out tech projects.](https://shylesh.ccbp.tech/)
 
-- 🌱 I’m currently learning **In ccbp tech academy**
+- 🌱 I’m currently learning **more things related to tech**
 
 - 👯 I’m looking to collaborate on [projects related with web development](https://shylesh.ccbp.tech/)
 
